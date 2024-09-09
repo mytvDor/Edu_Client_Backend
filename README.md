@@ -1,4 +1,4 @@
-Certainly! Here’s a `README.md` file focused on documenting API usage, including complete URL paths, headers, and request bodies where required:
+
 
 ```markdown
 # API Documentation
@@ -378,4 +378,3 @@ This project is licensed under the MIT License.
 
 ```
 
-This `README.md` file includes all the necessary details for using the API, including complete URL paths, headers, request bodies, and typical responses. Adjust any details as necessary for your specific project.
