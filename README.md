@@ -369,9 +369,6 @@ Replace `<your_jwt_token>` with the actual JWT token obtained from the login pro
     }
     ```
 
-## License
 
-This project is licensed under the MIT License.
 
-```
 
