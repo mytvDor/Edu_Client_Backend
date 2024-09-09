@@ -1,6 +1,4 @@
-
-
-```markdown
+```
 # API Documentation
 
 ## Overview
